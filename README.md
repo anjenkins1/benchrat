@@ -1,2 +1,6 @@
 # benchrat
-Lab work made easy
+## Description Deliverable
+### Elevator Pitch
+### Design
+### Key Features
+### Technologies
