@@ -8,9 +8,13 @@ Sick of flipping between 10 different applications for designing bio labs PCR pr
 
 ### Design
 Home page designed with login and ability to enter pcr primers to get your reaction conditions
- ![home](assets\home_page.png)
+
+![home](assets/home_page.png)
+
 Reaction page shows previously computed conditions
-![reactions](assets\reaction_page.png)
+
+![reactions](assets/reaction_page.png)
+
 ### Key Features
 
 - Ability to create a secure login over HTTPS
